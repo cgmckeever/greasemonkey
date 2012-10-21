@@ -1,0 +1,15 @@
+v\:* { behavior: url(#default#VML); }			
+.PR-popup {text-align:left;z-index:100000;position: absolute;top: 0;right: 0;bottom: 0;left: 0;width: 80%;height: 50%;margin: auto;}
+.PR-titlebar {font-size:1.75em;font-weight:bold;cursor:move;background-color:blue;color:white;z-index:100000;text-align:left;padding-left:.6em;height:1.5em;vertical-align:middle;border:2px solid black;}
+.PR-content {border: 2px solid black;background-color:white;z-index:100000; overflow:auto;height:100%;width:100%;border-left:1px solid black;}
+.PR-popup * {font-family:sans-serif;font-size:1em;}
+.PR-popup a {text-decoration:none;color: darkblue;cursor:pointer;}
+.PR-buttonscntr{position:absolute;right: .2em;top:0;vertical-align:middle;cursor:none;}
+.PR-btn {font-family:sans-serif;font-size:1.25em;font-weight:normal;background-color:buttonface;color:buttontext;text-align:center;vertical-align:top;height:1.3em;}
+.PR-groupHeader{background-color:orange;font-weight:bold;font-size:1.25em;}
+.PR-navbar {font-weight:bold;font-size:1.25em;width:100%;}
+.PR-navbar a{color:darkred;}
+.PR-constrainSize{overflow:auto;white-space:pre;}
+.PR-tbhdr {font-weight:bold;}
+.PR-content td {font-family: sans-serif;font-size:small;text-align:left;vertical-align:top;border: 1px solid black;}
+
